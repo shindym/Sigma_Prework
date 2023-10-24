@@ -91,8 +91,6 @@ scissors_img = pygame.image.load(f"{image_filepath}scissors_icon.png").convert_a
 scissorsX = 900
 scissorsY = 300
 
-#clock = pygame.time.Clock()
-
 # variables
 computer_pick = None
 reset_key = False
