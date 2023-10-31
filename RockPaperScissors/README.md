@@ -84,6 +84,7 @@ Below find the following steps required to launch & play the game.
 
 - Dynamic Reset - not having to press "Restart" button or "r" key to start a new game
 - Fixing bugs
+- Make into executable
 
 ------
 
