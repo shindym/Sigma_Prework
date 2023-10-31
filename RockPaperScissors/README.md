@@ -11,11 +11,13 @@
 <img src="main_screen.png" alt="drawing" width="400"/>
 <img src="game_play.png" alt="drawing" width="400"/>
 </p>
+
 ## Game Instructions
 - Click with your mouse/trackpad one of the options (Rock, Paper or Scissors pictures) on the screen. Shown below in red.
 <p align="center">
 <img src="game_options.png" alt="drawing" width="400"/>
 </p>
+
 - No need to try and keep score! We do that for you :)
 - Press the 'Restart' Button on the screen (shown below in red) or press the "r" key on your keyboard when you are ready to play again. 
 <p align="center">
@@ -49,7 +51,7 @@
 
 ### game_outcome.py
 
-- contains the game rules for Rock, Paper Scissors.
+- Contains the game rules for Rock, Paper Scissors.
 - Decide the outcome of the game `Win, Lose or Draw`.
 
 ### Images
